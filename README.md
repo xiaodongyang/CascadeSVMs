@@ -13,22 +13,23 @@ To compile the code, you need to have the OpenCV library (tested with OpenCV-2.4
 
 ### Training and Testing
 
-The current interface is designed for TRECVID Surveillance Event Detection.  
+The interface is designed for TRECVID Surveillance Event Detection. It can be modified according to your tasks.  
 
 ./CascadeSVMs -c train.control -p train
+
 ./CascadeSVMs -c test.control -p test
 
-The configuration and parameter settings are embeded in training and testing control files.
-
-
-### Related Publication
-
-X. Yang, C. Yi, L. Cao, and Y. Tian. MediaCCNY at TRECVID 2012: Surveillance Event Detection. NIST TRECVID Workshop, 2012. [[PDF](http://yangxd.org/publications/papers/TRECVID_2012_SED.pdf)]
+The configuration and parameter settings are embeded in the training and testing control files.
 
 
 ### Bugs and Extensions
 
 If you find any bug or develop some extensions, please feel free to drop me a line.
+
+
+### Related Publication
+
+X. Yang, C. Yi, L. Cao, and Y. Tian. MediaCCNY at TRECVID 2012: Surveillance Event Detection. NIST TRECVID Workshop, 2012. [[PDF](http://yangxd.org/publications/papers/TRECVID_2012_SED.pdf)]
 
 
 ### LICENSE CONDITIONS
