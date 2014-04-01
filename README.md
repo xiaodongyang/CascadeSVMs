@@ -29,6 +29,8 @@ If you find any bug or develop some extensions, please feel free to drop me a li
 
 ### Related Publication
 
+Please cite our paper if you use the code:
+
 X. Yang, C. Yi, L. Cao, and Y. Tian. MediaCCNY at TRECVID 2012: Surveillance Event Detection. NIST TRECVID Workshop, 2012. [[PDF](http://yangxd.org/publications/papers/TRECVID_2012_SED.pdf)]
 
 
